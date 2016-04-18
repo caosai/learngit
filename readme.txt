@@ -6,4 +6,5 @@ git init
 
 git add file
 
-git commit -m "comment why changed the file"
+Git is a distributed version control system.
+Git is free software.
